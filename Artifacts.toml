@@ -1,0 +1,19 @@
+[[libsingular_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97947e1cc84b76fa6aea0db7e9136b18883ef4d2"
+os = "macos"
+
+    [[libsingular_julia.download]]
+    sha256 = "f58fdefdc094f5e615a66842818d738a3fbce2219546d535a5cb08256ef22459"
+    url = "https://github.com/oscar-system/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.0.1+0/libsingular_julia.v0.0.1.x86_64-apple-darwin14-cxx11.tar.gz"
+[[libsingular_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "65bff167742834372b3755c80b4a2090afd6576b"
+libc = "glibc"
+os = "linux"
+
+    [[libsingular_julia.download]]
+    sha256 = "9059c8fcb2e22ff6eebc17aeb2e18ef6bada5d59f989a30588913608c40a132e"
+    url = "https://github.com/oscar-system/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.0.1+0/libsingular_julia.v0.0.1.x86_64-linux-gnu-cxx11.tar.gz"
